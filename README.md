@@ -10,21 +10,21 @@ from small demos to complete project writeups.
 
 ## Sections
 
-### Workflows
+### [Workflows](workflows/)
 
 - AI coding setup and daily workflow
 - Prompt patterns for planning, coding, testing, and refactoring
 - Debugging and code review routines
 - Tool comparisons and practical tips
 
-### Projects
+### [Projects](projects/)
 
 - Mini apps and prototypes
 - Frontend experiments
 - Automation scripts
 - Research-adjacent tools
 
-### Notes
+### [Notes](notes/)
 
 - Lessons learned
 - Useful commands
